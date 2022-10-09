@@ -67,6 +67,10 @@ public class Conta {
 			System.out.println("Não foi possível realizar a transferência!");
 		}
 	}
+	
+	public void cancelarConta() {
+		
+	}
 
 	@Override
 	public String toString() {
